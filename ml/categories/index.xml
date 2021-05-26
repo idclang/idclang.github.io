@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ദ്രാവിഡ കലമുറ മറ്റും മൊഴികൾ ഉഴക്കം</title>
+    <link>https://idclang.github.io/ml/categories/</link>
+    <description>Recent content in Categories on ദ്രാവിഡ കലമുറ മറ്റും മൊഴികൾ ഉഴക്കം</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://idclang.github.io/ml/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ml</title>
+      <link>https://idclang.github.io/ml/categories/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/ml/categories/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>അറിയിപ്പ്</title>
+      <link>https://idclang.github.io/ml/categories/%E0%B4%85%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/ml/categories/%E0%B4%85%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>അറിയിപ്പ്</title>
+      <link>https://idclang.github.io/ml/categories/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/ml/categories/info/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
