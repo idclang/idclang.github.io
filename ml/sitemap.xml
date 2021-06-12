@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://idclang.github.io/ml/categories/</loc>
+    <lastmod>2021-06-12T14:07:17+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,6 +46,99 @@
                 />
   </url><url>
     <loc>https://idclang.github.io/ml/categories/ml/</loc>
+    <lastmod>2021-06-12T14:07:17+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/ml/post/</loc>
+    <lastmod>2021-06-12T14:07:17+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idclang.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://idclang.github.io/kn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://idclang.github.io/ta/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://idclang.github.io/te/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tu"
+                href="https://idclang.github.io/tu/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mr"
+                href="https://idclang.github.io/mr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://idclang.github.io/bn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://idclang.github.io/ml/post/"
+                />
+  </url><url>
+    <loc>https://idclang.github.io/ml/categories/%E0%B4%95%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%81%E0%B4%95/</loc>
+    <lastmod>2021-06-12T14:07:17+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/ml/</loc>
+    <lastmod>2021-06-12T14:07:17+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idclang.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://idclang.github.io/kn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://idclang.github.io/ta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://idclang.github.io/te/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tu"
+                href="https://idclang.github.io/tu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="mr"
+                href="https://idclang.github.io/mr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://idclang.github.io/bn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://idclang.github.io/ml/"
+                />
+  </url><url>
+    <loc>https://idclang.github.io/ml/p/%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3-%E0%B4%B5%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B4%95%E0%B4%B0%E0%B4%A3%E0%B4%82/</loc>
+    <lastmod>2021-06-12T14:07:17+05:30</lastmod>
   </url><url>
     <loc>https://idclang.github.io/ml/page/</loc>
     <xhtml:link
@@ -86,48 +180,6 @@
                 rel="alternate"
                 hreflang="ml"
                 href="https://idclang.github.io/ml/page/"
-                />
-  </url><url>
-    <loc>https://idclang.github.io/ml/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://idclang.github.io/kn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ta"
-                href="https://idclang.github.io/ta/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="te"
-                href="https://idclang.github.io/te/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tu"
-                href="https://idclang.github.io/tu/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mr"
-                href="https://idclang.github.io/mr/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://idclang.github.io/bn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/post/"
                 />
   </url><url>
     <loc>https://idclang.github.io/ml/tags/</loc>
@@ -419,48 +471,6 @@
                 rel="alternate"
                 hreflang="ml"
                 href="https://idclang.github.io/ml/p/%E0%B4%85%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D/"
-                />
-  </url><url>
-    <loc>https://idclang.github.io/ml/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://idclang.github.io/kn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ta"
-                href="https://idclang.github.io/ta/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="te"
-                href="https://idclang.github.io/te/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tu"
-                href="https://idclang.github.io/tu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mr"
-                href="https://idclang.github.io/mr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://idclang.github.io/bn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/"
                 />
   </url><url>
     <loc>https://idclang.github.io/ml/%E0%B4%AA%E0%B4%B4%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%BE%E0%B4%B3%E0%B5%81%E0%B4%95%E0%B5%BE/</loc>
