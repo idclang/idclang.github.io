@@ -6,7 +6,359 @@
         <description>Recent content on Initiative on Dravidian Culture and Languagess</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 12 Jun 2021 13:13:04 +0530</lastBuildDate><atom:link href="https://idclang.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 13 Jun 2021 19:04:31 +0530</lastBuildDate><atom:link href="https://idclang.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Malayalam Language General Proficiency Test</title>
+        <link>https://idclang.github.io/p/malayalam-test/</link>
+        <pubDate>Sun, 13 Jun 2021 19:04:31 +0530</pubDate>
+        
+        <guid>https://idclang.github.io/p/malayalam-test/</guid>
+        <description>&lt;img src="https://idclang.github.io/p/malayalam-test/malthumb.png" alt="Featured image of post Malayalam Language General Proficiency Test" /&gt;&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+
+&lt;/head&gt;
+&lt;style&gt;
+    body{
+         font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Open Sans&#39;, &#39;Helvetica Neue&#39;, sans-serif;
+         background: #27272c;
+    }div#test{
+            border:none;
+            padding:10px 40px 40px 40px;
+            background-color:#1f1f27;
+            color: white;
+        }
+        button{
+            background-color:#3c3c41;
+            padding: 7px 16px;
+            outline: none;
+            border: none;
+            color: white;
+            font-size: .98em;
+            cursor: pointer;
+            letter-spacing: 1px;
+        }
+    h2{
+    font-weight: lighter;
+    color: #5c97d1;
+    font-size: 2em;
+    padding: 10px;
+    };
+&lt;/style&gt;
+&lt;body&gt;
+    &lt;div id=&#34;pop&#34; style=&#34;
+        background: rgb(36, 36, 36);
+        padding: 10px;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: fit-content;
+        height:fit-content;
+        z-index: 99;
+        display: block;
+        text-align: center;
+    &#34;&gt;
+        &lt;h3 style=&#34;
+        
+            padding: 10px;
+            font-weight: normal;
+            font-size: 1.6em;
+        &#34; &gt;വണക്കം | നമസ്കാരം&lt;/h3&gt;
+        &lt;p style=&#34;
+            padding: 10px;
+            color: rgb(255, 255, 255);
+        &#34; &gt;This is a free online Malayalam proficiency test.
+            &lt;br&gt;This online level test will give you an approximate indication of your Malayalam language level&lt;/p&gt;
+            &lt;ul style=&#34;
+            
+            color: rgb(255, 255, 255);
+            background: rgb(63, 63, 63);
+            padding: 10px 25px;
+            list-style:decimal;
+            text-align: left;
+            &#34; &gt;
+                &lt;li&gt;There will be a total of 20 Multiple choice questions&lt;/li&gt;
+                &lt;li&gt;You can either choose an option or leave it and press the submit button to move to the next question.&lt;/li&gt;
+                &lt;li&gt;At the end of the test, your score will be displayed along with your Malayalam Language level (ML).&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;p style = &#34;font-style: oblique;&#34;&gt;Note that ML5(Advanced) and ML6(Proficient) levels are not available in this test&lt;/p&gt;
+            &lt;button onclick=&#34;pop()&#34;&gt;Start Test&lt;/button&gt;
+            &lt;button onclick=&#34;exit()&#34;&gt;Close&lt;/button&gt;
+    &lt;/div&gt;
+    &lt;h2 id=&#34;test_status&#34;&gt;&lt;/h2&gt;
+    &lt;div id=&#34;test&#34;&gt;&lt;/div&gt;
+    &lt;p id=&#34;info&#34; style=&#34;color: white;margin-left: 3%; font-size: 1em;&#34;&gt;&lt;/p&gt;
+
+    &lt;script&gt;
+        var pos = 0;
+var correct = 0;
+var test, test_status, question, choice, choices, chA, chB, chC, chD;
+
+
+var questions = [
+    {
+        question: &#34;Which among the below letters is equivalent to &#39;ka&#39;?&#34;,
+        a: &#34;ഖ&#34;,
+        b: &#34;ക്&#34;,
+        c: &#34;ഖ്&#34;,
+        d: &#34;ക&#34;,
+        answer: &#34;D&#34;
+      },
+    {
+        question: &#34;Choose the correct spelling of amma?&#34;,
+        a: &#34;എമ്മ&#34;,
+        b: &#34;അമ്മ&#34;,
+        c: &#34;ആമ്മ&#34;,
+        d: &#34;അമ്മെ&#34;,
+        answer: &#34;B&#34;
+      },
+    {
+        question: &#34;What is the Malayalam word for ball?&#34;,
+        a: &#34;പന്ത്&#34;,
+        b: &#34;ഉരുളി&#34;,
+        c: &#34;ഭൂമി&#34;,
+        d: &#34;ഗുളിക&#34;,
+        answer: &#34;A&#34;
+      },
+    {
+        question: &#34;Which among the following is not a conjuct letter?&#34;,
+        a: &#34;ങ്ക&#34;,
+        b: &#34;മ്പ&#34;,
+        c: &#34;ഩ&#34;,
+        d: &#34;ന്റ&#34;,
+        answer: &#34;C&#34;
+      },
+      {
+        question: &#34;Which among the following is a vowel?&#34;,
+        a: &#34;ഋ&#34;,
+        b: &#34;ശ&#34;,
+        c: &#34;ള&#34;,
+        d: &#34;പെ&#34;,
+        answer: &#34;A&#34;
+      },
+      {
+        question: &#34;Which among the following is a semi-vowel?&#34;,
+        a: &#34;വ&#34;,
+        b: &#34;ങ&#34;,
+        c: &#34;റ&#34;,
+        d: &#34;ഐ&#34;,
+        answer: &#34;A&#34;
+      },
+      {
+        question: &#34;ഞാന്‍ ഒരു കമ്പിനാല്‍ അവനെ അടിച്ചു&#34;,
+        a: &#34;He was beaten with a stick&#34;,
+        b: &#34;He beat me with a stick &#34;,
+        c: &#34;I am beating him with a stick&#34;,
+        d: &#34;I beat him with a stick&#34;,
+        answer: &#34;D&#34;
+      },
+      {
+        question: &#34;What is the Malayalam word for running?&#34;,
+        a: &#34;ഒഴുകുന്നു&#34;,
+        b: &#34;നടന്നു&#34;,
+        c: &#34;ഓടുന്നു&#34;,
+        d: &#34;നടിക്കുന്നു&#34;,
+        answer: &#34;C&#34;
+      },
+      {
+        question: &#34;How is your mother doing? I have heard that she had an accident.&#34;,
+        a: &#34;നിന്റെ അമ്മ ഇപ്പോള്‍ എന്തു ചെയ്യുന്നു? അവള്‍ ഒരു അപകടത്തില്‍ പെട്ടു എന്നു ഞാന്‍ കേട്ടു.&#34;,
+        b: &#34;നിന്റെ അമ്മയ്ക്ക് ഇപ്പോള്‍ എങ്ങനെ ഉണ്ട്? അവര്‍ക്ക് എന്തോ അപകടം പറ്റി എന്നു ഞാന്‍ കേട്ടു&#34;,
+        c: &#34;നിന്റെ അമ്മയെ ഇപ്പോള്‍ എങ്ങനെ ഉണ്ട്? അവള്‍ക്ക് എന്തോ അപകടം പറ്റി എന്നു കേട്ടു ഞാന്‍&#34;,
+        d: &#34;നിന്റെ അമ്മയ്ക്ക് ഇപ്പോള്‍ എങ്ങനെ ഉണ്ട്? അവര്‍ക്ക് അപകടത്തില്‍ പെട്ടു എന്നു ഞാന്‍ കേട്ടു&#34;,
+        answer: &#34;B&#34;
+      },
+      {
+        question: &#34;Choose the correct spelling&#34;,
+        a: &#34;പ്രാവ്&#34;,
+        b: &#34;പൃവ്&#34;,
+        c: &#34;പാവ്ര്&#34;,
+        d: &#34;പിരാവ്&#34;,
+        answer: &#34;A&#34;
+      },
+      {
+        question: &#34;one hundred and one&#34;,
+        a: &#34;നൂറൊന്ന് &#34;,
+        b: &#34;നൂറ്റിയൊന്ന്&#34;,
+        c: &#34;നൂറും ഒന്നും&#34;,
+        d: &#34;നൂറും മറ്റും ഒന്നും മറ്റും&#34;,
+        answer: &#34;B&#34;
+      },
+      {
+        question: &#34;What is the meaning of the word വൈദ്യുതി?&#34;,
+        a: &#34;energy&#34;,
+        b: &#34;elasticity&#34;,
+        c: &#34;electricity&#34;,
+        d: &#34;engagement&#34;,
+        answer: &#34;C&#34;
+      },
+      {
+        question: &#34;Correct translation: Where are you?&#34;,
+        a: &#34;എവിടെയാണ് നീ?&#34;,
+        b: &#34;നീയേവിടയാണ്?&#34;,
+        c: &#34;എങ്ങനെയാണ് നീ?&#34;,
+        d: &#34;all of the above&#34;,
+        answer: &#34;A&#34;
+      },
+      {
+        question: &#34;Correct order: കൊല്ലു , കൊന്നു , കൊല്ലുന്നു&#34;,
+        a: &#34;killing, killed, kill&#34;,
+        b: &#34;kill, killed, killing&#34;,
+        c: &#34;kill, killing, killed&#34;,
+        d: &#34;killed, killing, kill&#34;,
+        answer: &#34;B&#34;
+      },
+      {
+        question: &#34;Correct order: പാടി, പാടുന്നു, പാടു&#34;,
+        a: &#34;sing, sang, singing&#34;,
+        b: &#34;singing, sang, sing&#34;,
+        c: &#34;sang, singing, sing&#34;,
+        d: &#34;sang, sing, singing&#34;,
+        answer: &#34;C&#34;
+      },
+      {
+        question: &#34;What is the meaning of ചാക്ക്?&#34;,
+        a: &#34;jackfruit&#34;,
+        b: &#34;jacket&#34;,
+        c: &#34;sack&#34;,
+        d: &#34;check&#34;,
+        answer: &#34;C&#34;
+      },
+      {
+        question: &#34;What is the meaning of നിറകുടം?&#34;,
+        a: &#34;potful&#34;,
+        b: &#34;colour-pot&#34;,
+        c: &#34;pot-colour&#34;,
+        d: &#34;palette&#34;,
+        answer: &#34;A&#34;
+      },
+      {
+     
+     question: &#34;Correct translation: Ten times&#34;,
+      a: &#34;പതിന്മടങ്ങ്&#34;,
+      b: &#34;ആയിരമിരട്ടി&#34;,
+      c: &#34;പത്രാസ്&#34;,
+      d: &#34;ഇരുപത്&#34;,
+      answer: &#34;A&#34;
+    },
+    {
+         question: &#34;Correct translation: കഴിഞ്ഞു&#34;,
+         a: &#34;ate&#34;,
+         b: &#34;finished&#34;,
+         c: &#34;eaten&#34;,
+         d: &#34;finishing&#34;,
+         answer: &#34;B&#34;
+       },
+       {
+        question: &#34;What is the Malayalam word for &#39;brown?&#39;&#34;,
+        a: &#34;ഇളങ്കറുപ്പ്&#34;,
+        b: &#34;തവിട്ട്&#34;,
+        c: &#34;പച്ച&#34;,
+        d: &#34;ബിറോണ്‍&#34;,
+        answer: &#34;B&#34;
+      },
+    ];
+
+    
+    function get(x){
+        return document.getElementById(x);
+      }
+
+      
+      function renderQuestion(){
+        test = get(&#34;test&#34;);
+        info = document.getElementById(&#39;info&#39;);
+        if(pos &gt;= questions.length){
+          test.innerHTML = &#34;&lt;h2&gt;You got &#34;+correct+&#34; of &#34;+questions.length+&#34; questions correct&lt;/h2&gt; &lt;br&gt; Post your score as a story on Instagram and tag @idclang or @malayalamozhi&#34;;
+          get(&#34;test_status&#34;).innerHTML = &#34;Test completed ചെമ്മോര്‍ത്തലുകള്‍&#34;;
+          if(correct &lt;=5){
+            info.innerHTML = &#34;Your level is ML1 (Beginner) തുടക്ക നില&#34;;
+          }else if (correct &lt;=10){
+            info.innerHTML = &#34;Your level is ML2 (Elementary) രണ്ടാം തുടക്ക നില&#34;; 
+          }else if (correct &lt;=15){
+            info.innerHTML = &#34;Good! Your level is ML3 (Intermediate) ഇടനില&#34;; 
+          }else if (correct &lt;=20){
+            info.innerHTML = &#34;Great! Your level is ML4 (Upper Intermediate) രണ്ടാം ഇടനില&#34;; 
+          };
+          
+          pos = 0;
+          correct = 0;
+          
+          return false;
+        }
+        get(&#34;test_status&#34;).innerHTML = &#34;Question &#34;+(pos+1)+&#34; of &#34;+questions.length;
+        
+        question = questions[pos].question;
+        chA = questions[pos].a;
+        chB = questions[pos].b;
+        chC = questions[pos].c;
+        chD = questions[pos].d;
+        
+        test.innerHTML = &#34;&lt;h3&gt;&#34;+question+&#34;&lt;/h3&gt;&#34;;
+        
+        
+        test.innerHTML += &#34;&lt;label&gt; &lt;input type=&#39;radio&#39; name=&#39;choices&#39; value=&#39;A&#39;&gt; &#34;+chA+&#34;&lt;/label&gt;&lt;br&gt;&#34;;
+        test.innerHTML += &#34;&lt;label&gt; &lt;input type=&#39;radio&#39; name=&#39;choices&#39; value=&#39;B&#39;&gt; &#34;+chB+&#34;&lt;/label&gt;&lt;br&gt;&#34;;
+        test.innerHTML += &#34;&lt;label&gt; &lt;input type=&#39;radio&#39; name=&#39;choices&#39; value=&#39;C&#39;&gt; &#34;+chC+&#34;&lt;/label&gt;&lt;br&gt;&#34;;
+        test.innerHTML += &#34;&lt;label&gt; &lt;input type=&#39;radio&#39; name=&#39;choices&#39; value=&#39;D&#39;&gt; &#34;+chD+&#34;&lt;/label&gt;&lt;br&gt;&lt;br&gt;&#34;;
+        test.innerHTML += &#34;&lt;button onclick=&#39;checkAnswer()&#39;&gt;Submit&lt;/button&gt;&#34;;
+      }
+
+      
+      function checkAnswer(){
+        
+        choices = document.getElementsByName(&#34;choices&#34;);
+        for(var i=0; i&lt;choices.length; i++){
+          if(choices[i].checked){
+            choice = choices[i].value;
+          }
+        }
+        
+        if(choice == questions[pos].answer){
+          
+          correct++;
+        }
+        
+        pos++;
+        
+        renderQuestion();
+      }
+      
+      function pop() {
+        renderQuestion();
+        close();
+      }
+
+      function exit(){
+        close();
+      }
+
+      function close(){
+          var c = document.getElementById(&#39;pop&#39;);
+          c.style.display = &#39;none&#39;;
+      }
+    
+
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;p&gt;For enquiries, reach out to us through &lt;a href=&#34;mailto:dclprogramme@gmail.com&#34;&gt;dclprogramme@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/idclang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Instagram&lt;/a&gt; |
+&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC_xQ83x2V3Oj5uWfLbUK8Tg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube&lt;/a&gt;
+|
+&lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/dclp.lang.3/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Indo-European Language Family</title>
         <link>https://idclang.github.io/p/indo-european/</link>
         <pubDate>Sat, 12 Jun 2021 13:13:04 +0530</pubDate>
