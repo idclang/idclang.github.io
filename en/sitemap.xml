@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://idclang.github.io/categories/art/</loc>
+    <lastmod>2021-06-19T19:10:39+05:30</lastmod>
+  </url><url>
     <loc>https://idclang.github.io/categories/</loc>
-    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
+    <lastmod>2021-06-19T19:10:39+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
@@ -46,10 +49,10 @@
                 />
   </url><url>
     <loc>https://idclang.github.io/categories/en/</loc>
-    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
+    <lastmod>2021-06-19T19:10:39+05:30</lastmod>
   </url><url>
     <loc>https://idclang.github.io/</loc>
-    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
+    <lastmod>2021-06-19T19:10:39+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
@@ -91,14 +94,8 @@
                 href="https://idclang.github.io/"
                 />
   </url><url>
-    <loc>https://idclang.github.io/categories/languages/</loc>
-    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
-  </url><url>
-    <loc>https://idclang.github.io/p/malayalam-test/</loc>
-    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
-  </url><url>
     <loc>https://idclang.github.io/post/</loc>
-    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
+    <lastmod>2021-06-19T19:10:39+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
@@ -139,6 +136,15 @@
                 hreflang="en"
                 href="https://idclang.github.io/post/"
                 />
+  </url><url>
+    <loc>https://idclang.github.io/p/vintage-posters/</loc>
+    <lastmod>2021-06-19T19:10:39+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/categories/languages/</loc>
+    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/p/malayalam-test/</loc>
+    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
   </url><url>
     <loc>https://idclang.github.io/p/indo-european/</loc>
     <lastmod>2021-06-12T13:13:04+05:30</lastmod>
