@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://idclang.github.io/categories/</loc>
-    <lastmod>2021-06-24T20:27:38+05:30</lastmod>
+    <lastmod>2021-06-25T19:59:27+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
@@ -45,14 +45,8 @@
                 href="https://idclang.github.io/categories/"
                 />
   </url><url>
-    <loc>https://idclang.github.io/categories/en/</loc>
-    <lastmod>2021-06-24T20:27:38+05:30</lastmod>
-  </url><url>
-    <loc>https://idclang.github.io/categories/infographics/</loc>
-    <lastmod>2021-06-24T20:27:38+05:30</lastmod>
-  </url><url>
     <loc>https://idclang.github.io/</loc>
-    <lastmod>2021-06-24T20:27:38+05:30</lastmod>
+    <lastmod>2021-06-25T19:59:27+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
@@ -94,8 +88,21 @@
                 href="https://idclang.github.io/"
                 />
   </url><url>
+    <loc>https://idclang.github.io/categories/ml/</loc>
+    <lastmod>2021-06-25T19:59:27+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://idclang.github.io/ml/categories/ml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idclang.github.io/categories/ml/"
+                />
+  </url><url>
     <loc>https://idclang.github.io/post/</loc>
-    <lastmod>2021-06-24T20:27:38+05:30</lastmod>
+    <lastmod>2021-06-25T19:59:27+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
@@ -136,6 +143,28 @@
                 hreflang="en"
                 href="https://idclang.github.io/post/"
                 />
+  </url><url>
+    <loc>https://idclang.github.io/categories/scripts/</loc>
+    <lastmod>2021-06-25T19:59:27+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/p/suriyani-malayalam/</loc>
+    <lastmod>2021-06-25T19:59:27+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://idclang.github.io/ml/p/%E0%B4%B8%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%BE%E0%B4%A8%E0%B4%BF-%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%82/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idclang.github.io/p/suriyani-malayalam/"
+                />
+  </url><url>
+    <loc>https://idclang.github.io/categories/en/</loc>
+    <lastmod>2021-06-24T20:27:38+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/categories/infographics/</loc>
+    <lastmod>2021-06-24T20:27:38+05:30</lastmod>
   </url><url>
     <loc>https://idclang.github.io/p/uto-aztecan/</loc>
     <lastmod>2021-06-24T20:27:38+05:30</lastmod>
