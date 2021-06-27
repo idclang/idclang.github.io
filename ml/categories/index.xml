@@ -6,22 +6,31 @@
     <description>Recent content in Categories on ദ്രാവിഡ കലമുറ മറ്റും മൊഴികൾ ഉഴക്കം</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jun 2021 19:59:27 +0530</lastBuildDate><atom:link href="https://idclang.github.io/ml/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Jun 2021 11:23:05 +0530</lastBuildDate><atom:link href="https://idclang.github.io/ml/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ml</title>
-      <link>https://idclang.github.io/ml/categories/ml/</link>
-      <pubDate>Fri, 25 Jun 2021 19:59:27 +0530</pubDate>
+      <title>en</title>
+      <link>https://idclang.github.io/ml/categories/en/</link>
+      <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
       
-      <guid>https://idclang.github.io/ml/categories/ml/</guid>
+      <guid>https://idclang.github.io/ml/categories/en/</guid>
       <description></description>
     </item>
     
     <item>
       <title>എഴുത്തുകള്‍</title>
       <link>https://idclang.github.io/ml/categories/%E0%B4%8E%E0%B4%B4%E0%B5%81%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%81%E0%B4%95%E0%B4%B3%E0%B5%8D/</link>
-      <pubDate>Fri, 25 Jun 2021 19:59:27 +0530</pubDate>
+      <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
       
       <guid>https://idclang.github.io/ml/categories/%E0%B4%8E%E0%B4%B4%E0%B5%81%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%81%E0%B4%95%E0%B4%B3%E0%B5%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://idclang.github.io/ml/categories/ml/</link>
+      <pubDate>Fri, 25 Jun 2021 19:59:27 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/ml/categories/ml/</guid>
       <description></description>
     </item>
     

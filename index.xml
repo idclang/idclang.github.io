@@ -6,7 +6,256 @@
         <description>Recent content on Initiative on Dravidian Culture and Languagess</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 25 Jun 2021 19:59:27 +0530</lastBuildDate><atom:link href="https://idclang.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 27 Jun 2021 11:23:05 +0530</lastBuildDate><atom:link href="https://idclang.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gondi and its Orthography</title>
+        <link>https://idclang.github.io/p/gondi-language/</link>
+        <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
+        
+        <guid>https://idclang.github.io/p/gondi-language/</guid>
+        <description>&lt;img src="https://idclang.github.io/p/gondi-language/thumbnail.png" alt="Featured image of post Gondi and its Orthography" /&gt;&lt;h1 id=&#34;gondi-and-its-writing-system&#34;&gt;Gondi and its Writing system&lt;/h1&gt;
+&lt;h3 id=&#34;author--idcl-editor&#34;&gt;Author:  IDCL editor&lt;/h3&gt;
+&lt;p&gt;This article is also available in &lt;a class=&#34;link&#34; href=&#34;https://idclang.github.io/te/p/%e0%b0%97%e0%b1%8b%e0%b0%82%e0%b0%a1%e0%b0%bf-%e0%b0%ad%e0%b0%be%e0%b0%b7/&#34; &gt;Telugu&lt;/a&gt; &lt;a class=&#34;link&#34; href=&#34;https://idclang.github.io/ta/p/%e0%ae%95%e0%af%8b%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%bf-%e0%ae%ae%e0%af%8a%e0%ae%b4%e0%ae%bf/&#34; &gt;Tamil&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://idclang.github.io/ml/p/%e0%b4%97%e0%b5%8b%e0%b4%a3%e0%b5%8d%e0%b4%9f%e0%b4%bf-%e0%b4%ad%e0%b4%be%e0%b4%b7/&#34; &gt;Malayalam&lt;/a&gt; languages.&lt;/p&gt;
+&lt;p&gt;Gondi is a Dravidian language spoken in the Indian states of  Madhya Pradesh, Telangana, Maharashtra, and Chhattisgarh. It belongs to the South Central Dravidian branch of the Dravidian language family and classified as an endangered language. It has over 2.98 million autochthonous speakers, but the language, and it&amp;rsquo;s dialects, are diminishing.
+Gondi is a dialect-centric language, sometimes they are pertained as Gondi languages. The primal dialects of this language include Dorla, Koya, Madiya, Muria, and Raj Gond.&lt;/p&gt;
+&lt;h2 id=&#34;writing-system&#34;&gt;Writing system&lt;/h2&gt;
+&lt;p&gt;Several scripts are utilised to write Gondi language. These are associated with the dialect of Gondi. A wide view about Gondi being a strictly oral language overturned when the Gunjala Gondi orthography re-emerged with the aid of researchers from the University of Hyderabad. In addition to this, Munshi Mangal Singh Masaram excogitated a script for Gondi in 1928. Besides, the language also wonts Telugu and Devanagri orthographies.&lt;/p&gt;
+&lt;p&gt;All scripts of Gondi have UNICODE encoding.&lt;/p&gt;
+&lt;h3 id=&#34;gunjala-gondi-script&#34;&gt;Gunjala Gondi Script&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Your device may not render this script, for that you can see the images provided under&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;vowels&#34;&gt;Vowels&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;𑵶𑶍𑶕𑶀𑵵𑶊 𑵶𑶓𑶕𑶂𑶋&lt;/th&gt;
+&lt;th&gt;ISO 15919 [ తెలుగు ]&lt;/th&gt;
+&lt;th&gt;𑵶𑶍𑶕𑶀𑵵𑶊 𑵶𑶓𑶕𑶂𑶋&lt;/th&gt;
+&lt;th&gt;ISO 15919 [ తెలుగు ]&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵠&lt;/td&gt;
+&lt;td&gt;a [అ]&lt;/td&gt;
+&lt;td&gt;𑵧&lt;/td&gt;
+&lt;td&gt;e [ఎ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵡&lt;/td&gt;
+&lt;td&gt;ā [ఆ]&lt;/td&gt;
+&lt;td&gt;𑵨&lt;/td&gt;
+&lt;td&gt;ai [ఐ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵢&lt;/td&gt;
+&lt;td&gt;i [ఇ]&lt;/td&gt;
+&lt;td&gt;𑵪&lt;/td&gt;
+&lt;td&gt;ō [ఓ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵣&lt;/td&gt;
+&lt;td&gt;ī [ఈ]&lt;/td&gt;
+&lt;td&gt;𑵫&lt;/td&gt;
+&lt;td&gt;au [ఔ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵤&lt;/td&gt;
+&lt;td&gt;u [ఉ]&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵥&lt;/td&gt;
+&lt;td&gt;ū [ఊ]&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;consonants&#34;&gt;Consonants&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;𑵶𑶍𑶕𑶀𑵵𑶊 𑵶𑶓𑶕𑶂𑶋&lt;/th&gt;
+&lt;th&gt;ISO 15919 [ తెలుగు ]&lt;/th&gt;
+&lt;th&gt;𑵶𑶍𑶕𑶀𑵵𑶊 𑵶𑶓𑶕𑶂𑶋&lt;/th&gt;
+&lt;th&gt;ISO 15919 [ తెలుగు  ]&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵬&lt;/td&gt;
+&lt;td&gt;y [య]&lt;/td&gt;
+&lt;td&gt;𑵹&lt;/td&gt;
+&lt;td&gt;dh [ధ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵭&lt;/td&gt;
+&lt;td&gt;v [వ]&lt;/td&gt;
+&lt;td&gt;𑵺&lt;/td&gt;
+&lt;td&gt;n [న]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵮&lt;/td&gt;
+&lt;td&gt;b [బ]&lt;/td&gt;
+&lt;td&gt;𑵻&lt;/td&gt;
+&lt;td&gt;c [చ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵯&lt;/td&gt;
+&lt;td&gt;bh [భ]&lt;/td&gt;
+&lt;td&gt;𑵼&lt;/td&gt;
+&lt;td&gt;ch [ఛ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵰&lt;/td&gt;
+&lt;td&gt;m [మ]&lt;/td&gt;
+&lt;td&gt;𑵽&lt;/td&gt;
+&lt;td&gt;ṭ [ట]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵱&lt;/td&gt;
+&lt;td&gt;k [క]&lt;/td&gt;
+&lt;td&gt;𑵾&lt;/td&gt;
+&lt;td&gt;ṭh [ఠ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵲&lt;/td&gt;
+&lt;td&gt;kh [ఖ]&lt;/td&gt;
+&lt;td&gt;𑵿&lt;/td&gt;
+&lt;td&gt;ḷ [ళ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵳&lt;/td&gt;
+&lt;td&gt;t [త]&lt;/td&gt;
+&lt;td&gt;𑶀&lt;/td&gt;
+&lt;td&gt;j [జ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵴&lt;/td&gt;
+&lt;td&gt;th [థ]&lt;/td&gt;
+&lt;td&gt;𑶁&lt;/td&gt;
+&lt;td&gt;jh [ఝ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵵&lt;/td&gt;
+&lt;td&gt;l [ల]&lt;/td&gt;
+&lt;td&gt;𑶂&lt;/td&gt;
+&lt;td&gt;ḍ [డ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵶&lt;/td&gt;
+&lt;td&gt;g [గ]&lt;/td&gt;
+&lt;td&gt;𑶃&lt;/td&gt;
+&lt;td&gt;ḍh [ఢ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵷&lt;/td&gt;
+&lt;td&gt;gh [ఘ]&lt;/td&gt;
+&lt;td&gt;𑶄&lt;/td&gt;
+&lt;td&gt;ṇ [ణ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;𑵸&lt;/td&gt;
+&lt;td&gt;d [ద]&lt;/td&gt;
+&lt;td&gt;𑶅&lt;/td&gt;
+&lt;td&gt;p [ప]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;𑶆&lt;/td&gt;
+&lt;td&gt;ph [ఫ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;𑶇&lt;/td&gt;
+&lt;td&gt;h [హ]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;𑶈&lt;/td&gt;
+&lt;td&gt;r [ర]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;𑶉&lt;/td&gt;
+&lt;td&gt;s [స]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 79; flex-basis: 191px&#34;&gt;
+		&lt;a href=&#34;https://idclang.github.io/p/gondi-language/vow.png&#34; data-size=&#34;1349x1687&#34;&gt;&lt;img src=&#34;https://idclang.github.io/p/gondi-language/vow.png&#34;
+				srcset=&#34;https://idclang.github.io/p/gondi-language/vow_hu2c2b9aaf855a00dee3659f3460921769_205621_480x0_resize_box_2.png 480w, https://idclang.github.io/p/gondi-language/vow_hu2c2b9aaf855a00dee3659f3460921769_205621_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;1349&#34;
+				height=&#34;1687&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Gondi Vowels&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Gondi Vowels&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 79; flex-basis: 191px&#34;&gt;
+		&lt;a href=&#34;https://idclang.github.io/p/gondi-language/c1.png&#34; data-size=&#34;1349x1687&#34;&gt;&lt;img src=&#34;https://idclang.github.io/p/gondi-language/c1.png&#34;
+				srcset=&#34;https://idclang.github.io/p/gondi-language/c1_hu37d3044c56f8cdbf22ef7d04a413b803_237150_480x0_resize_box_2.png 480w, https://idclang.github.io/p/gondi-language/c1_hu37d3044c56f8cdbf22ef7d04a413b803_237150_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;1349&#34;
+				height=&#34;1687&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Gondi Consonants&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Gondi Consonants&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 79; flex-basis: 191px&#34;&gt;
+		&lt;a href=&#34;https://idclang.github.io/p/gondi-language/c2.png&#34; data-size=&#34;1343x1686&#34;&gt;&lt;img src=&#34;https://idclang.github.io/p/gondi-language/c2.png&#34;
+				srcset=&#34;https://idclang.github.io/p/gondi-language/c2_hu56a2ceb5ec52547bf2403f2e6ebf0e14_242318_480x0_resize_box_2.png 480w, https://idclang.github.io/p/gondi-language/c2_hu56a2ceb5ec52547bf2403f2e6ebf0e14_242318_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;1343&#34;
+				height=&#34;1686&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Gondi Consonants and Numerals&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Gondi Consonants and Numerals&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 79; flex-basis: 191px&#34;&gt;
+		&lt;a href=&#34;https://idclang.github.io/p/gondi-language/di.png&#34; data-size=&#34;1347x1687&#34;&gt;&lt;img src=&#34;https://idclang.github.io/p/gondi-language/di.png&#34;
+				srcset=&#34;https://idclang.github.io/p/gondi-language/di_hu1830cccbf19019fda4367ecda80fa901_168461_480x0_resize_box_2.png 480w, https://idclang.github.io/p/gondi-language/di_hu1830cccbf19019fda4367ecda80fa901_168461_1024x0_resize_box_2.png 1024w&#34;
+				width=&#34;1347&#34;
+				height=&#34;1687&#34;
+				loading=&#34;lazy&#34;
+				alt=&#34;Gondi Vowel Markers&#34;&gt;
+		&lt;/a&gt;
+		
+		&lt;figcaption&gt;Gondi Vowel Markers&lt;/figcaption&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://omniglot.com/writing/masaramgondi.htm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Masaram Gondi&lt;/a&gt; Script&lt;/li&gt;
+&lt;li&gt;Gunjala Gondi Unicode &lt;a class=&#34;link&#34; href=&#34;https://software.sil.org/narnoor/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Font Download&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;You can contribute resources for Gondi language by &lt;a class=&#34;link&#34; href=&#34;https://idclang.github.io/contact/&#34; &gt;contacting us&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;For enquiries, reach out to us through &lt;a href=&#34;mailto:dclprogramme@gmail.com&#34;&gt;dclprogramme@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on&lt;br&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/idclang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Instagram&lt;/a&gt; |
+&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UC_xQ83x2V3Oj5uWfLbUK8Tg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Youtube&lt;/a&gt;
+|
+&lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/dclp.lang.3/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Facebook&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Suriyani Malayalam</title>
         <link>https://idclang.github.io/p/suriyani-malayalam/</link>
         <pubDate>Fri, 25 Jun 2021 19:59:27 +0530</pubDate>
@@ -199,6 +448,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;https://idclang.github.io/home/arish/blog/idclang/content/malayalam/post/suriyani-malayalam/thumbs.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
 &lt;p&gt;&lt;figure style=&#34;flex-grow: 100; flex-basis: 240px&#34;&gt;
 		&lt;a href=&#34;https://idclang.github.io/p/suriyani-malayalam/suru1.png&#34; data-size=&#34;1349x1349&#34;&gt;&lt;img src=&#34;https://idclang.github.io/p/suriyani-malayalam/suru1.png&#34;
