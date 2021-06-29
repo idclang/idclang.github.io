@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://idclang.github.io/p/beary-language/</loc>
+    <lastmod>2021-06-27T11:23:05+05:30</lastmod>
+  </url><url>
     <loc>https://idclang.github.io/categories/</loc>
     <lastmod>2021-06-27T11:23:05+05:30</lastmod>
     <xhtml:link
@@ -119,6 +122,9 @@
                 href="https://idclang.github.io/"
                 />
   </url><url>
+    <loc>https://idclang.github.io/categories/languages/</loc>
+    <lastmod>2021-06-27T11:23:05+05:30</lastmod>
+  </url><url>
     <loc>https://idclang.github.io/categories/orthography/</loc>
     <lastmod>2021-06-27T11:23:05+05:30</lastmod>
   </url><url>
@@ -197,9 +203,6 @@
   </url><url>
     <loc>https://idclang.github.io/p/vintage-posters/</loc>
     <lastmod>2021-06-19T19:10:39+05:30</lastmod>
-  </url><url>
-    <loc>https://idclang.github.io/categories/languages/</loc>
-    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
   </url><url>
     <loc>https://idclang.github.io/p/malayalam-test/</loc>
     <lastmod>2021-06-13T19:04:31+05:30</lastmod>
