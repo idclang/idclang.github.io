@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://idclang.github.io/p/beary-language/</loc>
-    <lastmod>2021-06-27T11:23:05+05:30</lastmod>
-  </url><url>
     <loc>https://idclang.github.io/categories/</loc>
     <lastmod>2021-06-27T11:23:05+05:30</lastmod>
     <xhtml:link
@@ -41,19 +38,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://idclang.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://idclang.github.io/categories/en/</loc>
-    <lastmod>2021-06-27T11:23:05+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/categories/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/categories/en/"
                 />
   </url><url>
     <loc>https://idclang.github.io/p/gondi-language/</loc>
@@ -122,9 +106,6 @@
                 href="https://idclang.github.io/"
                 />
   </url><url>
-    <loc>https://idclang.github.io/categories/languages/</loc>
-    <lastmod>2021-06-27T11:23:05+05:30</lastmod>
-  </url><url>
     <loc>https://idclang.github.io/categories/orthography/</loc>
     <lastmod>2021-06-27T11:23:05+05:30</lastmod>
   </url><url>
@@ -166,18 +147,8 @@
                 href="https://idclang.github.io/post/"
                 />
   </url><url>
-    <loc>https://idclang.github.io/categories/ml/</loc>
+    <loc>https://idclang.github.io/categories/languages/</loc>
     <lastmod>2021-06-25T19:59:27+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/categories/ml/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/categories/ml/"
-                />
   </url><url>
     <loc>https://idclang.github.io/p/suriyani-malayalam/</loc>
     <lastmod>2021-06-25T19:59:27+05:30</lastmod>
@@ -207,6 +178,9 @@
     <loc>https://idclang.github.io/p/malayalam-test/</loc>
     <lastmod>2021-06-13T19:04:31+05:30</lastmod>
   </url><url>
+    <loc>https://idclang.github.io/categories/tests/</loc>
+    <lastmod>2021-06-13T19:04:31+05:30</lastmod>
+  </url><url>
     <loc>https://idclang.github.io/p/indo-european/</loc>
     <lastmod>2021-06-12T13:13:04+05:30</lastmod>
   </url><url>
@@ -218,44 +192,6 @@
   </url><url>
     <loc>https://idclang.github.io/p/infographics/</loc>
     <lastmod>2021-06-04T11:55:31+05:30</lastmod>
-  </url><url>
-    <loc>https://idclang.github.io/categories/info/</loc>
-    <lastmod>2021-06-04T11:55:31+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="te"
-                href="https://idclang.github.io/te/categories/info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/categories/info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ta"
-                href="https://idclang.github.io/ta/categories/info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://idclang.github.io/kn/categories/info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tu"
-                href="https://idclang.github.io/tu/categories/info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="mr"
-                href="https://idclang.github.io/mr/categories/info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/categories/info/"
-                />
   </url><url>
     <loc>https://idclang.github.io/about/</loc>
     <xhtml:link
@@ -387,7 +323,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="https://idclang.github.io/kn/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C/"
+                href="https://idclang.github.io/kn/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C%E0%B3%81/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -441,6 +377,8 @@
                 hreflang="en"
                 href="https://idclang.github.io/p/info/"
                 />
+  </url><url>
+    <loc>https://idclang.github.io/categories/information/</loc>
   </url><url>
     <loc>https://idclang.github.io/page/</loc>
     <xhtml:link

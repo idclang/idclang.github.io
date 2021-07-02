@@ -40,19 +40,6 @@
                 href="https://idclang.github.io/ml/categories/"
                 />
   </url><url>
-    <loc>https://idclang.github.io/ml/categories/en/</loc>
-    <lastmod>2021-06-27T11:23:05+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/categories/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/categories/en/"
-                />
-  </url><url>
     <loc>https://idclang.github.io/ml/post/</loc>
     <lastmod>2021-06-27T11:23:05+05:30</lastmod>
     <xhtml:link
@@ -160,18 +147,8 @@
                 href="https://idclang.github.io/ml/"
                 />
   </url><url>
-    <loc>https://idclang.github.io/ml/categories/ml/</loc>
+    <loc>https://idclang.github.io/ml/categories/%E0%B4%AE%E0%B5%8A%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B4%B3%E0%B5%8D/</loc>
     <lastmod>2021-06-25T19:59:27+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/categories/ml/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/categories/ml/"
-                />
   </url><url>
     <loc>https://idclang.github.io/ml/p/%E0%B4%B8%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%BE%E0%B4%A8%E0%B4%BF-%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%82/</loc>
     <lastmod>2021-06-25T19:59:27+05:30</lastmod>
@@ -185,6 +162,9 @@
                 hreflang="ml"
                 href="https://idclang.github.io/ml/p/%E0%B4%B8%E0%B5%81%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%BE%E0%B4%A8%E0%B4%BF-%E0%B4%AE%E0%B4%B2%E0%B4%AF%E0%B4%BE%E0%B4%B3%E0%B4%82/"
                 />
+  </url><url>
+    <loc>https://idclang.github.io/ml/categories/ml/</loc>
+    <lastmod>2021-06-12T14:07:17+05:30</lastmod>
   </url><url>
     <loc>https://idclang.github.io/ml/categories/%E0%B4%95%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%81%E0%B4%95/</loc>
     <lastmod>2021-06-12T14:07:17+05:30</lastmod>
@@ -269,11 +249,6 @@
     <loc>https://idclang.github.io/ml/categories/%E0%B4%85%E0%B4%B1%E0%B4%BF%E0%B4%AF%E0%B4%BF%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D/</loc>
   </url><url>
     <loc>https://idclang.github.io/ml/categories/info/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/categories/info/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="te"
@@ -361,7 +336,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="kn"
-                href="https://idclang.github.io/kn/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C/"
+                href="https://idclang.github.io/kn/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C%E0%B3%81/"
                 />
     <xhtml:link
                 rel="alternate"

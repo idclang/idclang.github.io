@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jun 2021 11:23:05 +0530</lastBuildDate><atom:link href="https://idclang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>en</title>
-      <link>https://idclang.github.io/categories/en/</link>
-      <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
-      
-      <guid>https://idclang.github.io/categories/en/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>languages</title>
-      <link>https://idclang.github.io/categories/languages/</link>
-      <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
-      
-      <guid>https://idclang.github.io/categories/languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>orthography</title>
       <link>https://idclang.github.io/categories/orthography/</link>
       <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
@@ -35,16 +17,16 @@
     </item>
     
     <item>
-      <title>ml</title>
-      <link>https://idclang.github.io/categories/ml/</link>
+      <title>languages</title>
+      <link>https://idclang.github.io/categories/languages/</link>
       <pubDate>Fri, 25 Jun 2021 19:59:27 +0530</pubDate>
       
-      <guid>https://idclang.github.io/categories/ml/</guid>
+      <guid>https://idclang.github.io/categories/languages/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>infographics</title>
+      <title>Infographics</title>
       <link>https://idclang.github.io/categories/infographics/</link>
       <pubDate>Thu, 24 Jun 2021 20:27:38 +0530</pubDate>
       
@@ -53,7 +35,7 @@
     </item>
     
     <item>
-      <title>art</title>
+      <title>art and culture</title>
       <link>https://idclang.github.io/categories/art/</link>
       <pubDate>Sat, 19 Jun 2021 19:10:39 +0530</pubDate>
       
@@ -62,11 +44,20 @@
     </item>
     
     <item>
-      <title>info</title>
-      <link>https://idclang.github.io/categories/info/</link>
-      <pubDate>Fri, 04 Jun 2021 11:55:31 +0530</pubDate>
+      <title>tests</title>
+      <link>https://idclang.github.io/categories/tests/</link>
+      <pubDate>Sun, 13 Jun 2021 19:04:31 +0530</pubDate>
       
-      <guid>https://idclang.github.io/categories/info/</guid>
+      <guid>https://idclang.github.io/categories/tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information</title>
+      <link>https://idclang.github.io/categories/information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/categories/information/</guid>
       <description></description>
     </item>
     
