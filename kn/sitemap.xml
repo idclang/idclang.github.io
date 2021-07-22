@@ -2,36 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://idclang.github.io/kn/faq/</loc>
-    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="te"
-                href="https://idclang.github.io/te/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ta"
-                href="https://idclang.github.io/ta/faq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://idclang.github.io/kn/faq/"
-                />
-  </url><url>
     <loc>https://idclang.github.io/kn/</loc>
-    <lastmod>2021-07-03T16:27:28+05:30</lastmod>
+    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,7 +31,7 @@
                 />
   </url><url>
     <loc>https://idclang.github.io/kn/categories/</loc>
-    <lastmod>2021-07-03T16:27:28+05:30</lastmod>
+    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -87,7 +59,7 @@
                 />
   </url><url>
     <loc>https://idclang.github.io/kn/tags/</loc>
-    <lastmod>2021-07-03T16:27:28+05:30</lastmod>
+    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -115,7 +87,7 @@
                 />
   </url><url>
     <loc>https://idclang.github.io/kn/blog/</loc>
-    <lastmod>2021-07-03T16:27:28+05:30</lastmod>
+    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -140,6 +112,58 @@
                 rel="alternate"
                 hreflang="kn"
                 href="https://idclang.github.io/kn/blog/"
+                />
+  </url><url>
+    <loc>https://idclang.github.io/kn/tags/%E0%B2%89%E0%B2%AA%E0%B2%95%E0%B2%B0%E0%B2%A3%E0%B2%97%E0%B2%B3%E0%B3%81/</loc>
+    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/kn/blog/porul/</loc>
+    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idclang.github.io/blog/porul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://idclang.github.io/ml/blog/porul/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://idclang.github.io/kn/blog/porul/"
+                />
+  </url><url>
+    <loc>https://idclang.github.io/kn/categories/%E0%B2%B5%E0%B3%83%E0%B2%A4%E0%B2%BE%E0%B2%82%E0%B2%A4/</loc>
+    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
+  </url><url>
+    <loc>https://idclang.github.io/kn/faq/</loc>
+    <lastmod>2021-07-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idclang.github.io/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://idclang.github.io/ml/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://idclang.github.io/te/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://idclang.github.io/ta/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://idclang.github.io/kn/faq/"
                 />
   </url><url>
     <loc>https://idclang.github.io/kn/tags/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C%E0%B3%81/</loc>
