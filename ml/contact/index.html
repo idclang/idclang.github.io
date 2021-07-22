@@ -135,67 +135,81 @@ if (!doNotTrack) {
 </section>
 
 
-<section class="contact-form">
+
+<section class="section">
   <div class="container">
-    
     <div class="row">
-      <form method="POST" name="contact_ml" action="/ml/message_sent" netlify netlify-honeypot="nhp" action="https://forms.un-static.com/forms/26e7df2658aa02b5e32b5a41b6601e43e225811e">
-        <div class="col-md-6 col-sm-12">
-          <div class="block">
-            <div class="form-group">
-              <label for="name" hidden>നിങ്ങളുടെ പേര്</label>
-              <input id="name" name="name" type="text" class="form-control" placeholder="നിങ്ങളുടെ പേര്" required>
-            </div>
-            <div class="form-group">
-              <label for="email" hidden>നിങ്ങളുടെ മിന്നഞ്ചല്‍</label>
-              <input id="email" name="email" type="email" autocomplete="email" class="form-control" placeholder="നിങ്ങളുടെ മിന്നഞ്ചല്‍" required>
-            </div>
-            <div class="form-group">
-              <label for="subject" hidden>പൊരുള്‍</label>
-              <input id="subject" name="subject" type="text" class="form-control" placeholder="പൊരുള്‍" required>
-            </div>
-            
-            <div class="form-group-h">
-              <input name="nhp" type="text" class="form-control" placeholder="Are you made of flesh and bone?">
-            </div>
-            </div>
+      <div class="col-lg-12">
+        <section class="contact-form">
+<form method="post" class="container" action="https://forms.un-static.com/forms/26e7df2658aa02b5e32b5a41b6601e43e225811e">
+  <div class="form-group row">
+    <label for="name" class="col-4 col-form-label">നിങ്ങളുടെ പേര്</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-user"></i>
         </div>
-        <div class="col-md-6 col-sm-12">
-          <div class="block">
-            <div class="form-group-2">
-              <label for="message" hidden>നിങ്ങള്‍ക്ക് പറയാനുള്ളത്</label>
-              <textarea id="message" name="message" class="form-control" rows="4" placeholder="നിങ്ങള്‍ക്ക് പറയാനുള്ളത്" required></textarea>
-            </div>
-            <button class="btn btn-default" type="submit">സന്ദേശം അയക്കുക</button>
-          </div>
-        </div>
-      </form>
-    </div>
-    
-    <div class="contact-box row">
-      
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <h2>നെറിയല്‍</h2>
-          <ul class="address-block">
-          </ul>
-          <ul class="social-icons">
-            
-            <li><a href="https://www.instagram.com/idclang/"><i class="fab fa-instagram"></i></a></li>
-            
-            <li><a href="https://www.facebook.com/dclp.lang.3/"><i class="fab fa-facebook"></i></a></li>
-            
-            <li><a href="https://www.youtube.com/channel/UC_xQ83x2V3Oj5uWfLbUK8Tg"><i class="fab fa-youtube"></i></a></li>
-            
-          </ul>
-        </div>
+        <input id="name" name="name" placeholder="നിങ്ങളുടെ പേര്" type="text" required="required" class="form-control" style="padding:5px;outline:none;">
       </div>
-      
-      
     </div>
   </div>
-  <p style="text-align: center;" ><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+  <div class="form-group row">
+    <label for="email" class="col-4 col-form-label">നിങ്ങളുടെ മിന്നഞ്ചല്‍</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-envelope"></i>
+        </div>
+        <input id="email" name="email" placeholder="നിങ്ങളുടെ മിന്നഞ്ചല്‍" type="text" required="required" class="form-control" style="padding:5px;outline:none;">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="message" class="col-4 col-form-label">നിങ്ങള്‍ക്ക് പറയാനുള്ളത്</label>
+    <div class="col-8">
+      <textarea id="message" name="message" placeholder="നിങ്ങള്‍ക്ക് പറയാനുള്ളത്" cols="30" rows="8" required="required" class="form-control" style="padding:3px;outline:none;"></textarea>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="offset-4 col-8">
+      <button name="submit" type="submit" class="contact-btn">സന്ദേശം അയക്കുക</button>
+    </div>
+  </div>
+  <div class="text-center">
+    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+  </div>
+</form>
+
+<div class="contact-box row">
+  
+  <div class="col-md-6 col-sm-12">
+    <div class="block">
+      <h2>നെറിയല്‍</h2>
+      <ul class="address-block">
+      </ul>
+      <ul class="social-icons">
+        
+        <li><a href="https://www.instagram.com/idclang/"><i class="fab fa-instagram"></i></a></li>
+        
+        <li><a href="https://www.facebook.com/dclp.lang.3/"><i class="fab fa-facebook"></i></a></li>
+        
+        <li><a href="https://www.youtube.com/channel/UC_xQ83x2V3Oj5uWfLbUK8Tg"><i class="fab fa-youtube"></i></a></li>
+        
+      </ul>
+    </div>
+  </div>
+  
+  
+</div>
+
 </section>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
 
 <footer class="footer">
   <div class="container">
