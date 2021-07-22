@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ದ್ರಾವಿಡ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಭಾಷೆಗಳ ಉಪಕ್ರಮ</title>
+    <title>Tags on Idclang</title>
     <link>https://idclang.github.io/kn/tags/</link>
-    <description>Recent content in Tags on ದ್ರಾವಿಡ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಭಾಷೆಗಳ ಉಪಕ್ರಮ</description>
+    <description>Recent content in Tags on Idclang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://idclang.github.io/kn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>kn</language>
+    <copyright>ಕೃತಿಸ್ವಾಮ್ಯ &amp; ನಕಲು; 2021 [ಐಡ್‌ಕ್ಲಾಂಗ್](idclang.github.io). ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.</copyright>
+    <lastBuildDate>Sat, 03 Jul 2021 16:27:28 +0530</lastBuildDate><atom:link href="https://idclang.github.io/kn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ದಸ್ತಾವೇಜು</title>
+      <link>https://idclang.github.io/kn/tags/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C%E0%B3%81/</link>
+      <pubDate>Sat, 03 Jul 2021 16:27:28 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/kn/tags/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C%E0%B3%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ದ್ರಾವಿಡ</title>
+      <link>https://idclang.github.io/kn/tags/%E0%B2%A6%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%B5%E0%B2%BF%E0%B2%A1/</link>
+      <pubDate>Sat, 03 Jul 2021 16:27:28 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/kn/tags/%E0%B2%A6%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%B5%E0%B2%BF%E0%B2%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ಭಾರತೀಯ ಲಿಪಿಗಳು</title>
+      <link>https://idclang.github.io/kn/tags/%E0%B2%AD%E0%B2%BE%E0%B2%B0%E0%B2%A4%E0%B3%80%E0%B2%AF-%E0%B2%B2%E0%B2%BF%E0%B2%AA%E0%B2%BF%E0%B2%97%E0%B2%B3%E0%B3%81/</link>
+      <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/kn/tags/%E0%B2%AD%E0%B2%BE%E0%B2%B0%E0%B2%A4%E0%B3%80%E0%B2%AF-%E0%B2%B2%E0%B2%BF%E0%B2%AA%E0%B2%BF%E0%B2%97%E0%B2%B3%E0%B3%81/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

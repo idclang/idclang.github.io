@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Idclang</title>
+    <link>https://idclang.github.io/pages/</link>
+    <description>Recent content in Pages on Idclang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [Idclang](idclang.github.io). All Rights Reserved.</copyright><atom:link href="https://idclang.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentation</title>
+      <link>https://idclang.github.io/pages/documentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/pages/documentation/</guid>
+      <description>The importance of language preservation has become a necessity in this age of globalisation. More than 3000 languages in the world are considered as endangered.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ദ്രാവിഡ കലമുറ മറ്റും മൊഴികൾ ഉഴക്കം</title>
+    <title>Tags on Idclang</title>
     <link>https://idclang.github.io/ml/tags/</link>
-    <description>Recent content in Tags on ദ്രാവിഡ കലമുറ മറ്റും മൊഴികൾ ഉഴക്കം</description>
+    <description>Recent content in Tags on Idclang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://idclang.github.io/ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ml</language>
+    <copyright>പകര്‍പ്പൂര്‍പ്പും പകര്‍പ്പും; ൨൲൨൰൧ [ദ്ര.ക.മൊ.തു](idclang.github.io). എല്ലാ ഊര്‍പ്പുകളും കൈക്കൊണ്ടിരിക്കുന്നു</copyright>
+    <lastBuildDate>Sat, 03 Jul 2021 16:27:28 +0530</lastBuildDate><atom:link href="https://idclang.github.io/ml/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>കയലാക്കല്‍</title>
+      <link>https://idclang.github.io/ml/tags/%E0%B4%95%E0%B4%AF%E0%B4%B2%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B2%E0%B5%8D/</link>
+      <pubDate>Sat, 03 Jul 2021 16:27:28 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/ml/tags/%E0%B4%95%E0%B4%AF%E0%B4%B2%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B2%E0%B5%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ദ്രമിള</title>
+      <link>https://idclang.github.io/ml/tags/%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%AE%E0%B4%BF%E0%B4%B3/</link>
+      <pubDate>Sat, 03 Jul 2021 16:27:28 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/ml/tags/%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%AE%E0%B4%BF%E0%B4%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ഇന്ത്യന്‍ ലിപികള്‍</title>
+      <link>https://idclang.github.io/ml/tags/%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B5%8D-%E0%B4%B2%E0%B4%BF%E0%B4%AA%E0%B4%BF%E0%B4%95%E0%B4%B3%E0%B5%8D/</link>
+      <pubDate>Sun, 27 Jun 2021 11:23:05 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/ml/tags/%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B5%8D-%E0%B4%B2%E0%B4%BF%E0%B4%AA%E0%B4%BF%E0%B4%95%E0%B4%B3%E0%B5%8D/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

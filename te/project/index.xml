@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>మా ప్రాజెక్టులు on Idclang</title>
+    <link>https://idclang.github.io/te/project/</link>
+    <description>Recent content in మా ప్రాజెక్టులు on Idclang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>te</language>
+    <copyright>కాపీరైట్ &amp; కాపీ; 2021 [ఇడ్‌క్లాంగ్](idclang.github.io). అన్ని హక్కులూ ప్రత్యేకించుకోవడమైనది.</copyright><atom:link href="https://idclang.github.io/te/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ఘుగారియో మహాజని యూనికోడ్ ఫాంట్</title>
+      <link>https://idclang.github.io/te/project/ghughario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/te/project/ghughario/</guid>
+      <description>ఐడిసిఎల్ 2021 జూన్ 21 న మహాజని లిపి కోసం యునికోడ్ ఫాంట్‌ను ప్రకటించింది. వాడుకలో లేని వివిధ భారతీయ రచనా వ్యవస్థలను డిజిటలైజ్ చేయడానికి ఐడిసిఎల్ యొక్క స్క్రిప్ట్ పునరుద్ధరణ ప్రాజెక్టులో ఘాఘారియో మహాజని యూనికోడ్ ఫాంట్ ఒక భాగం.</description>
+    </item>
+    
+  </channel>
+</rss>

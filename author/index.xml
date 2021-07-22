@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Idclang</title>
+    <link>https://idclang.github.io/author/</link>
+    <description>Recent content in Authors on Idclang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [Idclang](idclang.github.io). All Rights Reserved.</copyright><atom:link href="https://idclang.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aksharam</title>
+      <link>https://idclang.github.io/author/aksharam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/author/aksharam/</guid>
+      <description>Explore the nuances of South-East Asian scripts through ravishing infographic posts. Aksharam covers various topics such as Telugu language, Brahmic scripts, Classical literature and more.</description>
+    </item>
+    
+    <item>
+      <title>Bhazhazabaan</title>
+      <link>https://idclang.github.io/author/bhashazabaan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/author/bhashazabaan/</guid>
+      <description>Bhashazabaan is an expert on various Indo-Aryan languages, particularly with Hindustani and Bangla. Bhashazabaan is publishes articles in Bengali language here at IDCL.</description>
+    </item>
+    
+    <item>
+      <title>IDCL Chief Editor</title>
+      <link>https://idclang.github.io/author/idcl-chief-editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/author/idcl-chief-editor/</guid>
+      <description>IDCL Chief Editor supervises the Articles in idclang website. ICE writes documentation for various languages and language scripts.</description>
+    </item>
+    
+    <item>
+      <title>Malayalamozhi</title>
+      <link>https://idclang.github.io/author/malayalamozhi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/author/malayalamozhi/</guid>
+      <description>Malayalamozhi handles the Pacha Malayalam Instagram page, aiming to promote the use of Pure Malayalam as a standardisation.</description>
+    </item>
+    
+  </channel>
+</rss>
