@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2021 [Idclang](idclang.github.io). All Rights Reserved.</copyright><atom:link href="https://idclang.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghughariyo Mahajani Unicode</title>
+      <link>https://idclang.github.io/products/ghughario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idclang.github.io/products/ghughario/</guid>
+      <description>Download TrueType      Download OpenType      Download WebFont</description>
+    </item>
+    
   </channel>
 </rss>
