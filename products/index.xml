@@ -6,7 +6,18 @@
     <description>Recent content in Products and Tools on Idclang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright &amp;copy; 2021 [Idclang](idclang.github.io). All Rights Reserved.</copyright><atom:link href="https://idclang.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2021 [Idclang](idclang.github.io). All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 25 Jul 2021 20:23:34 +0530</lastBuildDate><atom:link href="https://idclang.github.io/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tulu Font</title>
+      <link>https://idclang.github.io/products/dareg/</link>
+      <pubDate>Sun, 25 Jul 2021 20:23:34 +0530</pubDate>
+      
+      <guid>https://idclang.github.io/products/dareg/</guid>
+      <description>Download OpenType     
+Darage v1.1 is an independent traditional calligraphy style font for Tulu developed by Prahlad Tantry.</description>
+    </item>
+    
     <item>
       <title>Ghughariyo Mahajani Unicode</title>
       <link>https://idclang.github.io/products/ghughario/</link>

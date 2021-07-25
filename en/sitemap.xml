@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://idclang.github.io/</loc>
-    <lastmod>2021-07-22T19:54:06+05:30</lastmod>
+    <lastmod>2021-07-25T20:23:34+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ml"
@@ -29,6 +29,37 @@
                 hreflang="en"
                 href="https://idclang.github.io/"
                 />
+  </url><url>
+    <loc>https://idclang.github.io/products/</loc>
+    <lastmod>2021-07-25T20:23:34+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ml"
+                href="https://idclang.github.io/ml/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="te"
+                href="https://idclang.github.io/te/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://idclang.github.io/ta/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kn"
+                href="https://idclang.github.io/kn/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idclang.github.io/products/"
+                />
+  </url><url>
+    <loc>https://idclang.github.io/products/dareg/</loc>
+    <lastmod>2021-07-25T20:23:34+05:30</lastmod>
   </url><url>
     <loc>https://idclang.github.io/categories/</loc>
     <lastmod>2021-07-22T19:54:06+05:30</lastmod>
@@ -472,33 +503,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://idclang.github.io/pages/"
-                />
-  </url><url>
-    <loc>https://idclang.github.io/products/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ml"
-                href="https://idclang.github.io/ml/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="te"
-                href="https://idclang.github.io/te/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ta"
-                href="https://idclang.github.io/ta/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kn"
-                href="https://idclang.github.io/kn/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idclang.github.io/products/"
                 />
   </url><url>
     <loc>https://idclang.github.io/service/</loc>
