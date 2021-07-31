@@ -1,699 +1,477 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/categories/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/categories/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/categories/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/categories/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/categories/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/categories/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/tags/documentation/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/tags/dravidian/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/blog/koya-tribe/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/blog/koya-tribe/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/blog/koya-tribe/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/blog/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/blog/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/blog/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/blog/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/blog/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/blog/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/categories/mythology/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/tags/</loc>
-      <lastmod>2021-07-27T10:12:11+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/tags/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/tags/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/products/</loc>
-      <lastmod>2021-07-25T20:23:34+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/products/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/products/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/products/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/products/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/products/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/products/dareg/</loc>
-      <lastmod>2021-07-25T20:23:34+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/tags/dictionary/</loc>
-      <lastmod>2021-07-22T19:54:06+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/categories/news/</loc>
-      <lastmod>2021-07-22T19:54:06+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/blog/porul/</loc>
-      <lastmod>2021-07-22T19:54:06+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/blog/porul/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/blog/porul/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/blog/porul/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/tags/tools/</loc>
-      <lastmod>2021-07-22T19:54:06+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/faq/</loc>
-      <lastmod>2021-07-19T00:00:00+00:00</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/faq/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/faq/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/faq/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/faq/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/faq/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/blog/beary-language/</loc>
-      <lastmod>2021-07-03T16:27:28+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/blog/beary-language/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/blog/beary-language/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/blog/beary-language/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/categories/languages/</loc>
-      <lastmod>2021-07-03T16:27:28+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/blog/gunjala-gondi/</loc>
-      <lastmod>2021-06-27T11:23:05+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/blog/gunjala-gondi/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/blog/gunjala-gondi/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/blog/gunjala-gondi/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/blog/gunjala-gondi/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/blog/gunjala-gondi/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/tags/indian-scripts/</loc>
-      <lastmod>2021-06-27T11:23:05+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/categories/orthography/</loc>
-      <lastmod>2021-06-27T11:23:05+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/tags/semitic-scripts/</loc>
-      <lastmod>2021-06-25T19:59:27+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/blog/suriyani-malayalam/</loc>
-      <lastmod>2021-06-25T19:59:27+05:30</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/blog/suriyani-malayalam/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/blog/suriyani-malayalam/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/message_sent/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/message_sent/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/message_sent/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/message_sent/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/message_sent/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/message_sent/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/project/suyi-font/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/project/suyi-font/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/project/suyi-font/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/about/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/about/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/about/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/about/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/about/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/about/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/author/aksharam/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/author/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/author/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/author/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/author/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/author/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/author/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/author/bhashazabaan/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/pages/documentation/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/pages/documentation/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/pages/documentation/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/pages/documentation/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/pages/documentation/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/pages/documentation/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/contact/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/contact/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/contact/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/contact/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/contact/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/contact/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/products/ghughario/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/project/ghughario/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/project/ghughario/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/project/ghughario/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/project/ghughario/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/author/idcl-chief-editor/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/author/malayalamozhi/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/project/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/project/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/project/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/project/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/project/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/project/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/pages/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/pages/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/pages/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/pages/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/pages/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/pages/"
-                  />
-    </url>
-  
-    <url>
-      <loc>https://robertguss.comhttps://idclang.github.io/service/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ml"
-                  href="https://idclang.github.io/ml/service/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="te"
-                  href="https://idclang.github.io/te/service/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="ta"
-                  href="https://idclang.github.io/ta/service/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="kn"
-                  href="https://idclang.github.io/kn/service/"
-                  />
-      <xhtml:link
-                  rel="alternate"
-                  hreflang="en"
-                  href="https://idclang.github.io/service/"
-                  />
-    </url>
-  
+&lt;?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://idclang.github.io/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/blog/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/project/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/products/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/about/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/service/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/faq/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/contact/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/pages/documentation/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/blog/porul/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/author/idcl-chief-editor/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/tags/tools/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/tags/dictionary/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/blog/beary-language/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/tags/dravidian/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/tags/documentation/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/blog/gunjala-gondi/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/blog/suriyani-malayalam/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/author/malayalamozhi/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/categories/languages/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/categories/news/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/categories/orthography/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/tags/indian-scripts/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/tags/semitic-scripts/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/project/suyi-font/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/project/ghughario/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/products/dareg/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/products/ghughario/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/blog/beary-language/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/blog/beary-language/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/blog/gunjala-gondi/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/blog/gunjala-gondi/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/blog/gunjala-gondi/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/blog/gunjala-gondi/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/blog/suriyani-malayalam/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/blog/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/project/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/products/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/service/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/faq/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/about/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/contact/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/blog/porul/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/categories/%E0%B2%AD%E0%B2%BE%E0%B2%B7%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B3%81/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/categories/%E0%B2%B2%E0%B2%BF%E0%B2%AA%E0%B2%BF%E0%B2%97%E0%B2%B3%E0%B3%81/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/categories/%E0%B2%B5%E0%B3%83%E0%B2%A4%E0%B2%BE%E0%B2%82%E0%B2%A4/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/tags/%E0%B2%89%E0%B2%AA%E0%B2%95%E0%B2%B0%E0%B2%A3%E0%B2%97%E0%B2%B3%E0%B3%81/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/tags/%E0%B2%A6%E0%B2%B8%E0%B3%8D%E0%B2%A4%E0%B2%BE%E0%B2%B5%E0%B3%87%E0%B2%9C%E0%B3%81/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/tags/%E0%B2%A6%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%B5%E0%B2%BF%E0%B2%A1/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/tags/%E0%B2%AD%E0%B2%BE%E0%B2%B0%E0%B2%A4%E0%B3%80%E0%B2%AF-%E0%B2%B2%E0%B2%BF%E0%B2%AA%E0%B2%BF%E0%B2%97%E0%B2%B3%E0%B3%81/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/pages/documentation/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/blog/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/project/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/products/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/about/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/service/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/faq/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/contact/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/blog/porul/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/categories/%E0%B4%8E%E0%B4%B4%E0%B5%81%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%81%E0%B4%AE%E0%B5%81%E0%B4%B1/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/categories/%E0%B4%9A%E0%B5%86%E0%B4%AF%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%95%E0%B4%B3%E0%B5%8D/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/categories/%E0%B4%AE%E0%B5%8A%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B4%B3%E0%B5%8D/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/tags/%E0%B4%87%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B5%8D-%E0%B4%B2%E0%B4%BF%E0%B4%AA%E0%B4%BF%E0%B4%95%E0%B4%B3%E0%B5%8D/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/tags/%E0%B4%95%E0%B4%AF%E0%B4%B2%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%B2%E0%B5%8D/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/tags/%E0%B4%95%E0%B4%B0%E0%B5%81%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B4%B3%E0%B5%8D/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/tags/%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%AE%E0%B4%BF%E0%B4%B3/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ml/pages/documentation/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/blog/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/project/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/products/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/service/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/faq/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/about/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/contact/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/pages/documentation/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/blog/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/project/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/products/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/about/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/service/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/faq/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/contact/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/categories/%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/tags/%E0%AE%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%85%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/tags/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%B5%E0%AE%BF%E0%AE%9F/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/pages/documentation/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/kn/project/suyi-font/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/te/project/ghughario/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://idclang.github.io/ta/project/ghughario/</loc>
+  <lastmod>2021-07-25T17:51:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
 </urlset>
